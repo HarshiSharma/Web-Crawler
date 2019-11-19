@@ -1,5 +1,5 @@
 # Web Scarping Top 250 imdb movies using Node JS
-- This program scrape the Top 250 imdb page and their individual pages to extract information in following format:
+- This program scrapes the Top 250 imdb page and their individual pages to extract information in following format:
 ```
     { 
        title: '',
